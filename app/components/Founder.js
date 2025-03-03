@@ -10,7 +10,7 @@ const Founder = () => {
     qualifications: "B.E, M.Tech",
     experience: 11,
     batchesHandled: [
-      { course: "HND", count: 8, hours : '480' },
+      { course: "HND", count: 4, hours : '240' },
       { course: "EOOW Class IV (UK COC)", count: 38, hours : '2200' },
       { course: "Class 2", count: 2, hours : '240' },
     ],

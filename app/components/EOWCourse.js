@@ -102,12 +102,12 @@ const EOWCourse = () =>
         transition={{ duration: 0.6 }}
         viewport={{ once: true }}
       >
-                <h1 className="md:text-3xl text-2xl font-semibold pb-8">UK EOW COC (III/1) or BOW CLASS IV (UK COC)</h1>
+                <h1 className="md:text-3xl text-2xl font-semibold pb-8">UK EOOW COC (III/1) or BOOW CLASS IV (UK COC)</h1>
                 <div className="p-8 rounded-xl bg-blue-600 text-white space-y-2">
                     <p className="font-semibold">Description</p>
-                    <p>This course prepares candidates for the UK Engine Officer of the Watch (EOW) Certificate of Competency (COC). The examination consists of three main subjects: Science A, Science B, and Control Engineering. Each section comprises multiple questions, with varying marks per question.</p>
+                    <p>This course prepares candidates for the UK Engine Officer of the Watch (EOOW) Certificate of Competency (COC). The examination consists of three main subjects: Science A, Science B, and Control Engineering. Each section comprises multiple questions, with varying marks per question.</p>
                     <p className="font-semibold pt-8">Who should enroll?</p>
-                    <p>Aspiring marine engineers aiming for UK EOW COC (III/1) or BOW CLASS IV certification.</p>
+                    <p>Aspiring marine engineers aiming for UK EOOW COC (III/1) or BOOW CLASS IV certification.</p>
                 </div>
             </motion.div>
             <motion.div

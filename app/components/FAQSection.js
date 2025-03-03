@@ -4,19 +4,19 @@ import { ChevronDown } from "lucide-react";
 
 const faqs = [
   {
-    question: "What is UK EOW COC (III/1)?",
-    answer: "The UK Engine Officer of the Watch (EOW) Certificate of Competency (COC) III/1 is a qualification required for marine engineers to serve as watchkeeping engineers on ships.",
+    question: "What is UK EOOW COC (III/1)?",
+    answer: "The UK Engine Officer of the Watch (EOOW) Certificate of Competency (COC) III/1 is a qualification required for marine engineers to serve as watchkeeping engineers on ships.",
   },
   {
-    question: "What is BOW CLASS IV (UK COC)?",
-    answer: "The UK Bridge Officer of the Watch (BOW) Class IV Certificate of Competency (COC) is for deck officers who want to take responsibility for navigational watch duties on ships.",
+    question: "What is BOOW CLASS IV (UK COC)?",
+    answer: "The UK Bridge Officer of the Watch (BOOW) Class IV Certificate of Competency (COC) is for deck officers who want to take responsibility for navigational watch duties on ships.",
   },
   {
-    question: "Who is eligible for the UK EOW COC (III/1)?",
+    question: "Who is eligible for the UK EOOW COC (III/1)?",
     answer: "Candidates must complete an approved training program, gain sea service experience, and pass the required examinations.",
   },
   {
-    question: "What are the requirements for BOW CLASS IV (UK COC)?",
+    question: "What are the requirements for BOOW CLASS IV (UK COC)?",
     answer: "Eligibility includes completing an approved maritime training course, obtaining sea time, and passing the Maritime & Coastguard Agency (MCA) exams.",
   },
   {
@@ -28,7 +28,7 @@ const faqs = [
     answer: "Yes, the UK Certificate of Competency is recognized under the STCW Convention, allowing holders to work on ships worldwide.",
   },
   {
-    question: "What exams are required for EOW COC (III/1) and BOW CLASS IV?",
+    question: "What exams are required for EOOW COC (III/1) and BOOW CLASS IV?",
     answer: "Exams include written assessments, practical evaluations, and an oral exam conducted by the MCA.",
   },
   {
