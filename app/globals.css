@@ -129,3 +129,23 @@
     @apply bg-background text-foreground;
   }
 }
+
+::-webkit-scrollbar 
+{
+  width: 5px;
+}
+
+::-webkit-scrollbar-track 
+{
+  background: black;
+}
+
+::-webkit-scrollbar-thumb 
+{
+  background: rgb(37, 99, 235);
+}
+
+::-webkit-scrollbar-thumb:hover 
+{
+  background: black;
+}

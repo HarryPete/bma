@@ -22,7 +22,7 @@ const NavigationBar = () =>
 
                 <div className='flex items-center gap-4 text-white'>
                     
-                <Link className='hover:scale-105' href='#home'>
+                {/* <Link className='hover:scale-105' href='#home'>
           <TooltipProvider>
             <Tooltip>
               <TooltipTrigger><HomeIcon className='bg-blue-600 p-3 mt-1 rounded-full' size={36}/></TooltipTrigger>
@@ -31,12 +31,12 @@ const NavigationBar = () =>
               </TooltipContent>
             </Tooltip>
           </TooltipProvider>
-        </Link>
+        </Link> */}
 
         <Link className='hover:scale-105' href='#course'>
           <TooltipProvider>
             <Tooltip>
-              <TooltipTrigger><Book className='bg-blue-600 p-3 mt-1  rounded-full' size={36}/></TooltipTrigger>
+              <TooltipTrigger><Book className='bg-blue-600 p-3 mt-1 cursor-pointer rounded-full' size={36}/></TooltipTrigger>
               <TooltipContent>
                 <p>Course</p>
               </TooltipContent>
@@ -47,7 +47,7 @@ const NavigationBar = () =>
         <Link className='hover:scale-105' href='#instructor'>
           <TooltipProvider>
             <Tooltip>
-              <TooltipTrigger><UserIcon className='bg-blue-600 p-3 mt-1  rounded-full' size={36}/></TooltipTrigger>
+              <TooltipTrigger><UserIcon className='bg-blue-600 p-3 mt-1 cursor-pointer rounded-full' size={36}/></TooltipTrigger>
               <TooltipContent>
                 <p>Instructor</p>
               </TooltipContent>
