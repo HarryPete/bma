@@ -62,7 +62,7 @@ const NavigationBar = () =>
         <div className='z-10 fixed bottom-2 -right-2 rounded-3xl flex flex-col justify-around items-center gap-6 p-3 text-sm px-8 text-white'>
         
 
-        <Link className='hover:scale-105' href='https://wa.me/8746034092' target='_blank'>
+        <Link className='hover:scale-105' href='https://wa.link/mch8p7' target='_blank'>
           <TooltipProvider>
             <Tooltip>
               <TooltipTrigger><FaWhatsapp className='bg-green-600 p-3 rounded-full' size={48}/></TooltipTrigger>
